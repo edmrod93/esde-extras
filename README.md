@@ -1,4 +1,4 @@
-# 🎮 ES-DE ROM Folders
+# 🎮 ES-DE ROMs Folders
 
 A ready-to-use **empty ROM folder structure for ES-DE (EmulationStation Desktop Edition)**.
 
